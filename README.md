@@ -26,3 +26,6 @@
 
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
+  ![snake gif]
+  (https://github.com/Parrurox/.github/blob/output/github-contribution-grid-snake.gif)
+  
