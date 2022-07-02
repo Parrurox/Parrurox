@@ -25,6 +25,6 @@
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/parwezrox) 
 
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-![snake gif](https://github.com/Parrurox/.github/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Parrurox/.github/blob/output/github-contribution-grid-snake.svg)
 
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)  
+  
