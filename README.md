@@ -1,5 +1,5 @@
 # 💫 About Me:
-▶ Hey there !👋 I'm a coder/gamer with a passion for game development<br>▶ Building websites and apps for fun🥳.<br>▶ Learning ML/cloud computing 👨‍💻<br>▶ Studying Computer science in Kolkata, India 🌃
+▶ Hey there !👋 I'm a coder/gamer with a passion for game development<br>▶ Building websites and apps for fun🥳.<br>▶ Learning ML and cloud computing 👨‍💻<br>▶ Studying Computer science in Kolkata, India 🌃
 
 
 ## 🌐 Socials:
