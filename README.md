@@ -1,5 +1,6 @@
 # 💫 About Me:
-▶ Hey there !👋 I'm a programmer/gamer with a passion for game development<br>▶ Building websites and apps for fun🥳.<br>▶ Learning AI/ML and cloud computing 👨‍💻<br>▶ Studying Computer science in Kolkata, India
+
+▶ Hey there ! I'm Shaikh Parwez👋 I'm a programmer/gamer with a passion for game development<br>▶ Building websites and apps for fun🥳.<br>▶ Learning AI/ML and cloud computing 👨‍💻<br>▶ Studying Computer science in Kolkata, India
 
 
 ## 🌐 Socials:
