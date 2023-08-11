@@ -31,7 +31,11 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=parrurox&show_icons=true&locale=en&layout=compact" alt="parrurox" /></p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parrurox&show_icons=true&locale=en" alt="parrurox" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parrurox&" alt="parrurox" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parrurox&show_icons=true&locale=en&layout=compact" alt="parrurox" /></p>
+
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=parrurox&show_icons=true&locale=en" alt="parrurox" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parrurox&" alt="parrurox" /></p>
 
 
 
