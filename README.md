@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **shaikhparwez963@gmail.com**
 
-  <img align="right" height="150" src="https://i.giphy.com/media/S8fCuXghLZY2I/giphy.webp"  />
+ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,3 +32,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parrurox&show_icons=true&locale=en" alt="parrurox" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parrurox&" alt="parrurox" /></p>
+
+ <img align="right" height="150" src="https://i.giphy.com/media/S8fCuXghLZY2I/giphy.webp"  />
