@@ -1,13 +1,6 @@
 <h1 align="center">Hey I'm Shaikh Parwez 👋🏼</h1>
 
 ###
-# 💫 About Me:
-
-▶ Hey there ! I'm Shaikh Parwez👋 I'm a programmer/gamer with a passion for game development<br>▶ Building websites and apps for fun🥳.<br>▶ Learning AI/ML and cloud computing 👨‍💻<br>▶ Studying Computer science in Kolkata, India
-
-<img align="right" height="150" src="https://i.giphy.com/media/S8fCuXghLZY2I/giphy.webp"  />
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -47,6 +40,10 @@
 
 ###
 
+<img align="right" height="150" src="https://i.giphy.com/media/S8fCuXghLZY2I/giphy.webp"  />
+
+###
+
 <br clear="both">
 
 <div align="center">
@@ -71,6 +68,12 @@
   <a href="https://stackoverflow.com/users/17091740" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=flat" height="35" alt="stackoverflow logo"  />
   </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=parrurox&theme=synthwave" alt="Layout with last medium posts"  />
 </div>
 
 ###
