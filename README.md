@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Shaikh Parwez</h1>
 <h3 align="center">Gamer / Software developer 🧑🏻‍💻</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=parrurox&label=Profile%20views&color=0e75b6&style=flat" alt="parrurox" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=parrurox&label=Profile%20views&color=0e75b6&style=flat" alt="parrurox" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parrurox" alt="parrurox" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parrurox" alt="parrurox" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/roxonbluebirb" target="blank"><img src="https://img.shields.io/twitter/follow/roxonbluebirb?logo=twitter&style=for-the-badge" alt="roxonbluebirb" /></a> </p>
+<p align="center"> <a href="https://twitter.com/roxonbluebirb" target="blank"><img src="https://img.shields.io/twitter/follow/roxonbluebirb?logo=twitter&style=for-the-badge" alt="roxonbluebirb" /></a> </p>
 
 - 📫 How to reach me **shaikhparwez963@gmail.com**
+
+  <img align="center" height="150" src="https://i.giphy.com/media/S8fCuXghLZY2I/giphy.webp"  />
 
  
 
@@ -33,4 +35,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parrurox&" alt="parrurox" /></p>
 
- <img align="right" height="150" src="https://i.giphy.com/media/S8fCuXghLZY2I/giphy.webp"  />
+ 
