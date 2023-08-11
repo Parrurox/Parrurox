@@ -7,9 +7,9 @@
 
 <p align="center"> <a href="https://twitter.com/roxonbluebirb" target="blank"><img src="https://img.shields.io/twitter/follow/roxonbluebirb?logo=twitter&style=for-the-badge" alt="roxonbluebirb" /></a> </p>
 
-- 📫 How to reach me **shaikhparwez963@gmail.com**
+- 📫 How to reach me **shaikhparwez963@gmail.com**  <img align="center" height="150" src="https://i.giphy.com/media/S8fCuXghLZY2I/giphy.webp"  />
 
-  <img align="center" height="150" src="https://i.giphy.com/media/S8fCuXghLZY2I/giphy.webp"  />
+ 
 
  
 
@@ -19,7 +19,6 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shaikh-parwez-hasim-23681a10a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shaikh-parwez-hasim-23681a10a/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17091740" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17091740" height="30" width="40" /></a>
 <a href="https://instagram.com/parrurox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="parrurox" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/coderrox_parru" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="coderrox_parru" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/leetrox_parru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetrox_parru" height="30" width="40" /></a>
 <a href="https://discord.gg/parru_rox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="parru_rox" height="30" width="40" /></a>
 </p>
