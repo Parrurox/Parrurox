@@ -33,9 +33,9 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parrurox&show_icons=true&locale=en" alt="parrurox" <br> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parrurox&" alt="parrurox" /> /></p> 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parrurox&show_icons=true&locale=en" alt="parrurox" /></p>
 
-<p></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parrurox&" alt="parrurox" /></p>
 
 
 
