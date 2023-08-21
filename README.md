@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=parrurox&label=Profile%20views&color=0e75b6&style=flat" alt="parrurox" /> </p>
 
-<img align="center" height="150" src="https://i.giphy.com/media/S8fCuXghLZY2I/giphy.webp"  />
+<p align="center">  <img align="center" height="150" src="https://i.giphy.com/media/S8fCuXghLZY2I/giphy.webp"  /> </p>
 
 
 
@@ -46,7 +46,7 @@
 
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Parrurox&show_icons=true&hide_border=true&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
-  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parrurox" alt="parrurox" /></a> </p>
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parrurox" alt="parrurox" /></a> </p>
 
 </details>
 
