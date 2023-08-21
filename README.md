@@ -19,13 +19,9 @@
 <a href="https://twitter.com/roxonbluebirb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="roxonbluebirb" height="30" width="40" /></a>
 
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shaikh-parwez-hasim-23681a10a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shaikh-parwez-hasim-23681a10a/" height="30" width="40" /></a>
-
 <a href="https://stackoverflow.com/users/17091740" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17091740" height="30" width="40" /></a>
-
 <a href="https://instagram.com/parrurox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="parrurox" height="30" width="40" /></a>
-
 <a href="https://www.leetcode.com/leetrox_parru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetrox_parru" height="30" width="40" /></a>
-
 <a href="https://discord.gg/parru_rox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="parru_rox" height="30" width="40" /></a>
 </p>
 
