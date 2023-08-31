@@ -9,7 +9,8 @@
 
 <p align="center"> <a href="https://twitter.com/roxonbluebirb" target="blank"><img src="https://img.shields.io/twitter/follow/roxonbluebirb?logo=twitter&style=for-the-badge" alt="roxonbluebirb" /></a> </p>
 
-- 📫 How to reach me **shaikhparwez963@gmail.com**  
+- 📫 How to reach me **shaikhparwez963@gmail.com**
+- Check out my blogs <a href="https://parwez.hashnode.dev/" target="blank"> Here!</a>
 
  
 
