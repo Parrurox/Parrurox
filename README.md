@@ -43,7 +43,7 @@
 
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>:zap: ## GitHub Stats</summary>
 
 
 
