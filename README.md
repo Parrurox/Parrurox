@@ -42,8 +42,7 @@
 
 
 <h2 align="left">Github Stats</h2>
-<details>
-  <summary>:zap: 👇 </summary>
+
 
 
 
@@ -57,7 +56,7 @@
     <img align=top src="https://github-readme-stats.vercel.app/api/top-langs?username=Parrurox&show_icons=true&locale=en&theme=github_dark&hide_border=true&bg_color=000000&layout=compact&langs_count=10&hide=assembly,fortran,rust,java,r,dart,c%23,jupyter%20notebook,c%2B%2B,tex,pug" height="194.8px" alt="Language Stats">
 </div>
 <br>
-</details>
+
 
 
 
