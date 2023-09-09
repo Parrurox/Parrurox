@@ -41,9 +41,9 @@
 
 
 
-
+<h2 align="left">Github Stats</h2>
 <details>
-  <summary>:zap: <h2 align="left">Github Stats</h2></summary>
+  <summary>:zap: 👇 </summary>
 
 
 
