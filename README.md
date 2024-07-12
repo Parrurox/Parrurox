@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shaikh Parwez</h1>
-<h3 align="center">Gamer / Software developer 🧑🏻‍💻</h3>
+<h3 align="center">Software developer 🧑🏻‍💻</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=parrurox&label=Profile%20views&color=0e75b6&style=flat" alt="parrurox" /> </p>
 
-<p align="center">  <img align="center" height="150" src="https://i.giphy.com/media/S8fCuXghLZY2I/giphy.webp"  /> </p>
+
 
 
 
